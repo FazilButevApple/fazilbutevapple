@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazilbutevapple&label=Profile%20views&color=0e75b6&style=flat" alt="fazilbutevapple" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazilbutevapple" alt="fazilbutevapple" /></a> </p>
-
 - 🔭 I’m currently working on [MHRS](https://apps.apple.com/tr/app/mhrs/id1539508996?l=tr)
 
 - 🌱 I’m currently learning **SwiftUI,Jetpack Compose**
